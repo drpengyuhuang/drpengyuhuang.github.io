@@ -4,7 +4,7 @@ title:  My first personal website
 date:   2022-06-19 19:38:00
 description: 
 tags: firstpost
-categories: 
+categories: post
 ---
 
 Hi all!
