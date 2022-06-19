@@ -7,12 +7,13 @@ years: [2022,2021,2020,2019,2018,2015]
 nav: true
 nav_order: 4
 ---
-<!-- _pages/publications.md -->
-<div class="publications">
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
+Journal papers
+•	Huang, P., Shen, L., Maggi, F., Chen, Z., and Pan, Z. (2022). Influence of surface roughness on methane flow in shale kerogen nano-slits. The Journal of Natural Gas Science and Engineering, 103, 104650.
+•	Wu, J., Huang, P., Maggi, F., and Shen, L. (2022). Effect of sorption-induced deformation on methane flow in kerogen slit pores. Fuel (Accepted on 11th June 2022).
+•	Wu, J., Huang, P., Maggi, F., and Shen, L. (2022). Molecular investigation on CO₂-CH₄ displacement and kerogen deformation in enhanced shale gas recovery. Fuel, 315, 123208.
+•	Huang, P., Shen, L., Gan, Y., Shen, Y., Du, D., Yu, B., Maggi, F., and El‐Zein, A. (2021). Measurements of the relative permeability to CO2‐and‐brine multiphase fluid of Paaratte formation at near‐reservoir conditions. Greenhouse Gases: Science and Technology, 11(4), 697-711.
+•	Huang, P., Shen, L., Gan, Y., Maggi, F., and El-Zein, A. (2020). Numerical investigation of microscale dynamic contact angles of the CO2–water–silica system using coarse-grained molecular approach. Computational Mechanics, 66(3), 707-722.
+•	Huang, P., Shen, L., Gan, Y., Maggi, F., El-Zein, A., and Pan, Z. (2019). Atomistic Study of Dynamic Contact Angles in CO2-Water-Silica System. Langmuir, 35(15), 5324-5332. (Supplementary Cover)
+•	Huang, P., Shen, L., Gan, Y., Nguyen, G. D., El-Zein, A., and Maggi, F. (2018). Coarse-grained modeling of multiphase interactions at microscale. The Journal of Chemical Physics, 149(12), 124505.
+•	Alonso-Marroquin, F., Huang, P., Hanaor, D., Flores-Johnson, E., Proust, G., Gan, Y., and Shen, L. (2015). Static friction between rigid fractal surfaces. Physical Review E, 92(3), 1-12.  
