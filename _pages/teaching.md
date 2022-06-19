@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Tutored CIVL1802 Statics, CIVL3235 Structural Analysis at USYD and Construction Materials (48352) at UTS; Gave lectures for Construction Materials (48352).
+description: Tutored CIVL1802 Statics, CIVL3235 Structural Analysis at USYD and Construction Materials (48352) at UTS; Delivered lectures for Construction Materials (48352).
 nav: true
 nav_order: 2
 ---
