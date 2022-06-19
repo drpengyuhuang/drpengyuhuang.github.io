@@ -3,8 +3,8 @@ layout: post
 title:  My first personal website
 date:   2022-06-19 19:38:00
 description: 
-tags: formatting links
-categories: sample-posts
+tags: firstpost
+categories: 
 ---
 
 Hi all!
