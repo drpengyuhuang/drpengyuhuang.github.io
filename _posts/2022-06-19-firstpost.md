@@ -6,7 +6,7 @@ date:   2022-06-19 19:38:00
 
 Hi all!
 
-I created my first personal webstie on Github pages by using hte al-folio template. 
+I created my first personal webstie on Github pages by using hte al-folio theme. 
 
 I am testing the blog function here.
 
