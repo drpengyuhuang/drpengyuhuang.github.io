@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I complete my Ph.D. degree at the University of Sydeny in 2019. I am currently a postdoctoral research associate at the School of Civil Enigneering, the University of Sydney. My research interests include multiphase flow and multiscale modelling in porous media, investigated by serval numerical methods: molecular dynamics (nanoscale); coarse-grained molecular dynamics (microscale; and reservor simulation (reservior scale).
+I completed my Ph.D. at the University of Sydeny in 2019. I am currently a postdoctoral research associate at the School of Civil Enigneering, the University of Sydney. My research interests include multiphase flow and multiscale modelling in porous media, investigated by serval numerical methods: molecular dynamics (nanoscale); coarse-grained molecular dynamics (microscale; and reservor simulation (reservior scale).
