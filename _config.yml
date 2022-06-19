@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:Pengyu Huang # the website title (if blank, full name will be used instead)
+title: Pengyu Huang # the website title (if blank, full name will be used instead)
 first_name: Pengyu
 middle_name:
 last_name: Huang 
@@ -115,7 +115,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 news_limit: 5
