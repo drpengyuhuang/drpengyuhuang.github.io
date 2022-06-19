@@ -9,14 +9,14 @@ nav_order: 4
 ---
 
 ### Journal papers
-- [8] **Huang, P.**, Shen, L., Maggi, F., Chen, Z., and Pan, Z. (2022). Influence of surface roughness on methane flow in shale kerogen nano-slits. The Journal of Natural Gas Science and Engineering, 103, 104650.
-- [7] Wu, J., **Huang, P.**, Maggi, F., and Shen, L. (2022). Effect of sorption-induced deformation on methane flow in kerogen slit pores. Fuel (Accepted on 11th June 2022).
-- [6] Wu, J., **Huang, P.**, Maggi, F., and Shen, L. (2022). Molecular investigation on CO₂-CH₄ displacement and kerogen deformation in enhanced shale gas recovery. Fuel, 315, 123208.
-- [5] **Huang, P.**, Shen, L., Gan, Y., Shen, Y., Du, D., Yu, B., Maggi, F., and El‐Zein, A. (2021). Measurements of the relative permeability to CO2‐and‐brine multiphase fluid of Paaratte formation at near‐reservoir conditions. Greenhouse Gases: Science and Technology, 11(4), 697-711.
-- [4] **Huang, P.**, Shen, L., Gan, Y., Maggi, F., and El-Zein, A. (2020). Numerical investigation of microscale dynamic contact angles of the CO2–water–silica system using coarse-grained molecular approach. Computational Mechanics, 66(3), 707-722.
-- [3] **Huang, P.**, Shen, L., Gan, Y., Maggi, F., El-Zein, A., and Pan, Z. (2019). Atomistic Study of Dynamic Contact Angles in CO2-Water-Silica System. Langmuir, 35(15), 5324-5332. (Supplementary Cover)
-- [2] **Huang, P.**, Shen, L., Gan, Y., Nguyen, G. D., El-Zein, A., and Maggi, F. (2018). Coarse-grained modeling of multiphase interactions at microscale. The Journal of Chemical Physics, 149(12), 124505.
-- [1] Alonso-Marroquin, F., **Huang, P.**, Hanaor, D., Flores-Johnson, E., Proust, G., Gan, Y., and Shen, L. (2015). Static friction between rigid fractal surfaces. Physical Review E, 92(3), 1-12.  
+- [8] **Huang, P.**, Shen, L., Maggi, F., Chen, Z., and Pan, Z. (2022). Influence of surface roughness on methane flow in shale kerogen nano-slits. The Journal of Natural Gas Science and Engineering, 103, 104650. [DOI](https://doi.org/10.1016/j.jngse.2022.104650)
+- [7] Wu, J., **Huang, P.**, Maggi, F., and Shen, L. (2022). Effect of sorption-induced deformation on methane flow in kerogen slit pores. Fuel (Accepted on 11th June 2022). [DOI]()
+- [6] Wu, J., **Huang, P.**, Maggi, F., and Shen, L. (2022). Molecular investigation on CO₂-CH₄ displacement and kerogen deformation in enhanced shale gas recovery. Fuel, 315, 123208. [DOI](https://doi.org/10.1016/j.fuel.2022.123208)
+- [5] **Huang, P.**, Shen, L., Gan, Y., Shen, Y., Du, D., Yu, B., Maggi, F., and El‐Zein, A. (2021). Measurements of the relative permeability to CO2‐and‐brine multiphase fluid of Paaratte formation at near‐reservoir conditions. Greenhouse Gases: Science and Technology, 11(4), 697-711. [DOI](https://doi.org/10.1002/ghg.2074)
+- [4] **Huang, P.**, Shen, L., Gan, Y., Maggi, F., and El-Zein, A. (2020). Numerical investigation of microscale dynamic contact angles of the CO2–water–silica system using coarse-grained molecular approach. Computational Mechanics, 66(3), 707-722. [DOI](https://doi.org/10.1007/s00466-020-01873-7)
+- [3] **Huang, P.**, Shen, L., Gan, Y., Maggi, F., El-Zein, A., and Pan, Z. (2019). Atomistic Study of Dynamic Contact Angles in CO2-Water-Silica System. Langmuir, 35(15), 5324-5332. (Supplementary Cover). [DOI](https://doi.org/10.1021/acs.langmuir.9b00076)
+- [2] **Huang, P.**, Shen, L., Gan, Y., Nguyen, G. D., El-Zein, A., and Maggi, F. (2018). Coarse-grained modeling of multiphase interactions at microscale. The Journal of Chemical Physics, 149(12), 124505. [DOI](https://doi.org/10.1063/1.5038903)
+- [1] Alonso-Marroquin, F., **Huang, P.**, Hanaor, D., Flores-Johnson, E., Proust, G., Gan, Y., and Shen, L. (2015). Static friction between rigid fractal surfaces. Physical Review E, 92(3), 1-12. [DOI](https://doi.org/10.1103/PhysRevE.92.032405)
 
 ### Full-length conference papers
 - [2] **Huang, P.**, Shen, L., Gan, Y., Maggi, F., El Zein, A., and Nguyen, G. (2016). A Coarse-Grained Approach to Modelling Tensile Fracture of Sand Grains and Surface Tension of Water at Mesoscale. 10th International Conference on Structural Integrity and Failure (SIF-2016): Advances in Materials and Structures, Adelaide: University of Adelaide.
