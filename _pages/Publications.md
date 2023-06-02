@@ -10,7 +10,7 @@ nav_order: 3
 
 ### Journal papers
 - [10] Wu, J., Gan, Y., Zhang, S., **Huang, P.**, & Shen, L.(2023). Pore-scale lattice Boltzmann simulation of CO2-CH4 displacement in shale matrix. Energy (online). [DOI](https://doi.org/10.1016/j.energy.2023.127991)
-- [9] Wu, J., Shen, L., **Huang, P.**, & Gan, Y. (2023). Selective adsorption and transport of CO2–CH4 mixture under nano-confinement. Energy, 273, 127224.
+- [9] Wu, J., Shen, L., **Huang, P.**, & Gan, Y. (2023). Selective adsorption and transport of CO2–CH4 mixture under nano-confinement. Energy, 273, 127224.[DOI](https://https://doi.org/10.1016/j.energy.2023.127224)
 - [8] **Huang, P.**, Shen, L., Maggi, F., Chen, Z., and Pan, Z. (2022). Influence of surface roughness on methane flow in shale kerogen nano-slits. The Journal of Natural Gas Science and Engineering, 103, 104650. [DOI](https://doi.org/10.1016/j.jngse.2022.104650)
 - [7] Wu, J., **Huang, P.**, Maggi, F., & Shen, L. (2022). Effect of sorption-induced deformation on methane flow in kerogen slit pores. Fuel, 325, 124886. [DOI](https://doi.org/10.1016/j.fuel.2022.124886)
 - [6] Wu, J., **Huang, P.**, Maggi, F., and Shen, L. (2022). Molecular investigation on CO₂-CH₄ displacement and kerogen deformation in enhanced shale gas recovery. Fuel, 315, 123208. [DOI](https://doi.org/10.1016/j.fuel.2022.123208)
